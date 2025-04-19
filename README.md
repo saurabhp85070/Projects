@@ -7,7 +7,7 @@ This repository contains a collection of academic projects developed during my u
 ### [Face Attendance System](https://github.com/saurabhp85070/Projects/tree/main/Face%20Attendence%20System)
 A facial recognition-based attendance system that captures and records student attendance using real-time webcam input.
 
-- **Technologies**: OpenCV, NumPy, Python
+- **Technologies**: `OpenCV`, `NumPy`, `Python`, `face-recognition`
 - **Features**:
   - Real-time face detection and recognition
   - Attendance logging with timestamps
@@ -16,7 +16,7 @@ A facial recognition-based attendance system that captures and records student a
 ### [Music Genre Classification](https://github.com/saurabhp85070/Projects/tree/main/Music%20Genre%20Classification)
 A machine learning model designed to classify music tracks into their respective genres based on audio features.
 
-- **Technologies**: Python, Librosa, Scikit-learn
+- **Technologies**: `Python`, `Librosa`, `Scikit-learn`
 - **Features**:
   - Audio feature extraction (e.g., MFCCs)
   - Model training and evaluation
@@ -25,7 +25,7 @@ A machine learning model designed to classify music tracks into their respective
 ### [World Coin Currency Detection](https://github.com/saurabhp85070/Projects/tree/main/World%20Coin%20Currency%20Detectation)
 An image processing project aimed at identifying and classifying world coins based on their visual characteristics.
 
-- **Technologies**: OpenCV, Python, Keras, Tensorflow
+- **Technologies**: `OpenCV`, `Python`, `Keras`, `Tensorflow`, `Tkinter`
 - **Features**:
   - Image preprocessing and segmentation
   - Feature extraction for coin identification
